@@ -1,0 +1,8 @@
+Decide which pizza place to order from
+Decide what size
+Decide the toppings
+Decide the type of crust
+Decide if you want a drink
+Choose what sides you want
+See if you have the money
+Purchase
